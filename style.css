@@ -1,0 +1,57 @@
+.side {
+    height: 100%;
+    width: 300px;
+    background-color: rgb(245,133, 35);
+    float: left} 
+   img
+   { padding: 50px ;}
+a:hover { color: rgb(46, 46, 46)}
+
+a:link, a:visited {
+    color : white;
+    padding: 14px 25px;
+    text-decoration: none;}
+      .MAIN {left:350;
+        line-height: 150px;
+        margin: auto;
+        margin-top: -200px;
+        position: absolute;
+        top: 50%;
+        width: 100%;
+        }
+        .anas {color: chocolate}
+       
+        .id{color: darkorange}
+        .icons{display: -webkit-flex;}
+          
+          .fa:hover {
+              opacity: 0.7;
+          }
+          
+          .fa-facebook {
+            background: #3B5998;
+            color: white;
+          }
+          
+          .fa-twitter {
+            background: #55ACEE;
+            color: white;
+          }
+          
+          .fa-google {
+            background: #dd4b39;
+            color: white;
+          }
+          
+          .fa-linkedin {
+            background: #007bb5;
+            color: white;
+          }
+          
+          .fa-youtube {
+            background: #bb0000;
+            color: white;
+          }
+          
+         
+       
